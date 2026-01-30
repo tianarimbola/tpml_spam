@@ -240,12 +240,14 @@ Après l'entraînement du modèle:
 - `scripts/vectorizer.joblib` - Vectorizer TF-IDF
 
 ---
+## 📊 lien video
+https://drive.google.com/file/d/1Km2GY9YqcwuBzCWOgbVdEArcMQ-4F3PH/view?usp=sharing
 
 ## 📧 Contact & Support
 
 Pour plus d'informations, visitez:
 - 🌐 **Site ISPM**: www.ispm-edu.com
-- 📱 **Équipe Projet**: [À compléter avec les coordonnées de contact]
+
 
 ---
 
