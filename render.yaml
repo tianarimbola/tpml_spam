@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: spam-detector
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn predict_server:app
+    healthCheckPath: /
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11"
